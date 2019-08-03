@@ -18,7 +18,7 @@ namespace LangugeFeatures.Controllers
         {
             Product myproduct = new Product();
 
-            myproduct.Name = "Kayak";
+            myproduct.Name = "Kayak5465456465";
 
             string productName = myproduct.Name;
 
